@@ -3,8 +3,8 @@
 
 🔗 What functionality is available for the project:
 
--- animation when hovering over the first three cards;
-
--- pages for the first three cards;
-
--- mobile version (break point: 375px).
+  -- animation when hovering over the first three cards;
+  
+  -- pages for the first three cards;
+  
+  -- mobile version (break point: 375px).
